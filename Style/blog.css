@@ -1,11 +1,12 @@
 div{
-    background-color: aqua;
+    background-color: cyan;
     padding: 15px;
     margin-bottom: 10px;
 }
 header{
     text-align: center;
     text-decoration: blue;
-    background-color: bisque;
-    font-size: larger;
+    background-color: tomato;
+    font-size: xx-large;
+    border-color: blueviolet;
 }
